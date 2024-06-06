@@ -4,3 +4,16 @@ export REGION=
 curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Serverless%20Data%20Processing%20with%20Dataflow%20-%20Monitoring%2C%20Logging%20and%20Error%20Reporting%20for%20Dataflow%20Jobs/techcps.sh
 sudo chmod +x techcps.sh
 ./techcps.sh
+
+
+after this -
+go to the dataflow jobs
+
+after job sucess runnig
+
+click on it 
+-go to bigquery jobs
+-then select data location - us multiple regions in us
+-load bigquery jobs
+
+$ check progress
