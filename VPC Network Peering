@@ -1,0 +1,11 @@
+export ZONE_1=us-east1-c
+
+export ZONE_2=us-west1-c
+
+export PROJECT_ID1=qwiklabs-gcp-04-14132aa3b5e6
+
+export PROJECT_ID2=qwiklabs-gcp-02-8574ef146d39
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/VPC%20Network%20Peering/techcps193.sh
+sudo chmod +x techcps193.sh
+./techcps193.sh
