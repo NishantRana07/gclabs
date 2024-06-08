@@ -1,0 +1,5 @@
+export REGION=us-east1
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Dataplex%3A%20Qwik%20Start%20-%20Command%20Line/techcpsgsp1144.sh 
+sudo chmod +x techcpsgsp1144.sh
+./techcpsgsp1144.sh
