@@ -1,0 +1,6 @@
+
+export REGION=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/API%20Gateway%3A%20Qwik%20Start/techcps872.sh
+sudo chmod +x techcps872.sh
+./techcps872.sh
